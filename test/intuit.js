@@ -14,6 +14,11 @@ describe("basic setter/getter", function() {
 		intuit('glasses', 'sun');
 
 		assert.equal(intuit('glasses'), 'sun');
+
+		intuit('glasses', 'view');
+		intuit('glasses', 'view');
+
+		assert.equal(intuit('glasses'), 'view');
 	});
 
 
