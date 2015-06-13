@@ -1,5 +1,12 @@
 
+/**
+ * Persistent storage.
+ * @note we should use local storage
+ * or indexdb.
+ */
+
 var storage = {};
+
 
 /**
  * Predictive analytics.
