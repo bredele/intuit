@@ -15,7 +15,7 @@ predict('glasses');
 //=> sun
 ```
 
-This simple piece of code will allow you to predict your users need. With it you can create personalized advertisements, redirect the user to what he is really interestec about and way more.
+This simple piece of code will allow you to predict your users need. With it you can create personalized advertisements, redirect the user to what he is really interested about and way more.
 
 
 ## License
